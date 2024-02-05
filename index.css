@@ -1,0 +1,20 @@
+main {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: auto;
+  width: 50%;
+  border: solid black;
+}
+
+section {
+  display: flex;
+}
+
+p {
+  font-weight: bold;
+}
+
+ul {
+  font-weight: bold;
+}
